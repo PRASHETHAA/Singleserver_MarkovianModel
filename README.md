@@ -1,13 +1,14 @@
-# Single seriver infinite capacity - Markovian Model
+## EX NO:07
+## DATE:15.6.22
+# <p align="center">Single server infinite capacity - Markovian Model
 
 # Aim : 
 To find 
-      (a) average  number of materials in the system
-      (b) average  number of materials in the conveyor
-      (c) waitinging time of each material in the system
-      (d) waitinging time of each material in the conveyor
-if arrival rate of material  follows poisson process 4 per minuates and serivice rate of lathe machine follows 
-exponential distribution with mean serice rate 5 per minutes.
+      (a) average  number of materials in the conveyor
+      (b) suitable length of conveyor
+      (c) waitinging time of the material in the conveyor,
+if arrival rate of material  follows poisson process 5 per minuates and serivice rate of lathe machine follows 
+exponential distribution with mean serice rate 6 per minutes.
 
 
 # Software required :  
@@ -43,19 +44,19 @@ result in an increase in the idle time of the service mechanism.
 8. Drag robot manager and robot from visual legacy and place in between two conveyors.
 9. Connect all machine trending  inlet, outlet, robot manager and lathe machine using interface menu.
 10. Run the program.
-# Experiment 
+# Experiment:
+![55](https://user-images.githubusercontent.com/75235090/175531961-dfee531c-8d4b-41f9-b089-6cf4114e8310.png)
 
-![image](https://user-images.githubusercontent.com/104613195/175239086-d102fbc4-bc83-418d-8816-4c48fdbc9120.png)
+# Program :
+```
+Developed by:
+ Register Number:212220230035
+ Name:Prasannakumar M  
+ ```
+![56](https://user-images.githubusercontent.com/75235090/175532133-4159ea37-924a-4658-8e61-b87aa0f38156.png)
 
-# Program
+# Output : 
+ ![57](https://user-images.githubusercontent.com/75235090/175532238-68f09be0-a77e-47d1-82a0-d9975b96c09f.png)
 
-![image](https://user-images.githubusercontent.com/104613195/175240494-46c23d4d-ddc7-43ae-8fbc-c7da9edb2c83.png)
-
-
-#  Output 
-
-![image](https://user-images.githubusercontent.com/104613195/175240669-9eef6924-f33e-46f9-9c01-988b58480ce3.png)
-
-# Result 
- 
+## Result:
 The average number of materials in the system is 4 and the conveyor is 3.2, and average waiting time of each materials in the system is 60 seconds and conveyor is 48 seconds are calculated.
