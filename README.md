@@ -50,8 +50,8 @@ result in an increase in the idle time of the service mechanism.
 # Program :
 ```
 Developed by:
- Register Number:212220230035
- Name:Prasannakumar M  
+ Register Number:212220230036
+ Name:PRASHETHAA R
  ```
 ![56](https://user-images.githubusercontent.com/75235090/175532133-4159ea37-924a-4658-8e61-b87aa0f38156.png)
 
